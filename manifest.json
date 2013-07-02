@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Crop Element",
-	"description": "Adds a 'Crop Element' menu item to right click menu",
-	"version": "0.1",
+	"name": "Crop Tools",
+	"description": "Adds several menu items to context menu for cropping elements",
+	"version": "0.2",
 	"permissions": [
 		"contextMenus"
 	],
